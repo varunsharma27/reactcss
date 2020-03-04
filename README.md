@@ -67,6 +67,7 @@ Examples and projects built with reactCSS:
 [React Color](https://github.com/casesandberg/react-color) - Color Pickers from Sketch, Photoshop, Chrome, Github, Twitter & more
 [Buffer App Components](https://www.npmjs.com/package/@bufferapp/components) - A shared set of UI Components
 [React Reactions](https://github.com/casesandberg/react-reactions) - Use Reactions from Slack, Facebook, Pokemon, Github and Youtube
+[Kibana](https://github.com/elastic/kibana) - A browser-based analytics and search dashboard for Elasticsearch.
 
 
 [travis-svg]: https://travis-ci.org/casesandberg/reactcss.svg
